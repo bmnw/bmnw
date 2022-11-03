@@ -3,12 +3,12 @@
 
 :smiley_cat: :paw_prints: Ask me about [Waffle's Spot](https://github.com/bmnw/pet-care-app)!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bmnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bmnw/" height="30" width="40" /></a>
-</p>
+<h4 align="left">:link: Connect with me:</h4>
 
-<h3 align="left">:computer: Languages and Tools:</h3>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />](https://www.linkedin.com/in/bmnw/)
+
+
+<h4 align="left">:computer: Languages and Tools:</h4>
 
 <p align="left"> 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="23px" />
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="23px" />
 </p>
 
-<h3 align="left">:bar_chart: Some stats:</h3>
+<h4 align="left">:bar_chart: Some stats:</h4>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bmnw&show_icons=true&locale=en&layout=compact" alt="bmnw" /></p>
 
