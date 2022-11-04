@@ -3,11 +3,6 @@
 
 :smiley_cat: :paw_prints: Ask me about [Waffle's Spot](https://github.com/bmnw/pet-care-app)!
 
-<h4 align="left">:link: Connect with me:</h4>
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />](https://www.linkedin.com/in/bmnw/)
-
-
 <h4 align="left">:computer: Languages and Tools:</h4>
 
 <p align="left"> 
