@@ -1,7 +1,9 @@
 <h1 align="center">Hello hello 👋 My name is Bryn.</h1>
 <h3 align="center">I'm a full-stack software engineer.</h3>
 
-### :smiley_cat: :paw_prints: Ask me about [Waffle's Spot](https://github.com/bmnw/pet-care-app)!
+### Recent Projects:
+- :smiley_cat: :paw_prints: [Waffle's Spot](https://github.com/bmnw/pet-care-app)
+- :dollar: :page_facing_up: [TradeOut](https://github.com/bmnw/tradeout)!
 
 <h4 align="left">:computer: Languages and Tools:</h4>
 
