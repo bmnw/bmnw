@@ -3,7 +3,7 @@
 
 ### Recent Projects:
 - :smiley_cat: :paw_prints: [Waffle's Spot](https://github.com/bmnw/pet-care-app)
-- :dollar: :page_facing_up: [TradeOut](https://github.com/bmnw/tradeout)!
+- :dollar: :page_facing_up: [TradeOut](https://github.com/bmnw/tradeout)
 
 <h4 align="left">:computer: Languages and Tools:</h4>
 
