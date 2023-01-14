@@ -28,10 +28,3 @@
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="23px" />
 </p>
-
-<h4 align="left">:bar_chart: Some stats:</h4>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bmnw&show_icons=true&locale=en&layout=compact" alt="bmnw" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bmnw&show_icons=true&locale=en" alt="bmnw" /></p>
-
