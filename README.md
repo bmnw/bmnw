@@ -1,19 +1,19 @@
-<h1 align="center">Hello hello 👋 My name is Bryn.</h1>
-<h3 align="center">I'm a full-stack software engineer.</h3>
+Hello! I'm Bryn.
 
-### Recent work can be found here: [bmnw-mjl](https://github.com/bmnw-mjl)
+Recent work can be found here: [bmnw-mjl](https://github.com/bmnw-mjl)
 
-### Student Projects:
-- :smiley_cat: :paw_prints: [Waffle's Spot](https://github.com/bmnw/pet-care-app)
-- :dollar: :page_facing_up: [TradeOut](https://github.com/bmnw/tradeout)
+Student projects:
+- [Waffle's Spot](https://github.com/bmnw/pet-care-app)
+- [TradeOut](https://github.com/bmnw/tradeout)
 
-### Experience with:
+I've worked with:
+
 | Languages & Tools   | Frameworks    | Databases & Containers | Cloud   | Version Control |
 | -----------         | -----------   | -------                | ------- | -------         |
 | TypeScript          | React         | PostreSQL              | Azure   | Git             |
 | JavaScript          | React Native  | MySQL                  |         | GitHub          |
 | C#                  | Node.js       | Docker
-| HTML               | ASP.NET       | Redis
+| HTML                | ASP.NET       | Redis
 | CSS
 | Redux
 | Figma
